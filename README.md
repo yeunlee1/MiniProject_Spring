@@ -2,6 +2,7 @@
 
 STS3 으로 제작한 2차프로젝트 입니다. 
 데이터베이스는 오라클을 사용하였고 jsp사용하여 view만들었습니다.
+MyBatis 사용
 
 
 ![KakaoTalk_20240308_150728194_03](https://github.com/yeunlee1/MiniProject_Spring/assets/151593456/f77e0510-fcf2-4586-bafa-257f5fd0dd74)
